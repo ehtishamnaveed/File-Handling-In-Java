@@ -2,7 +2,7 @@
 - It is a File Handling Project created in Java. It contains two files `Employee.java` and `Client.java`.
 ## Employee.java
 - This class contains `class Employee`.
-- Which contains;
+- Which contains all the functionality of writing the file, and the GUI code using JOptionPane.
 ### Data Members
 - Employee Name
 - Father name
