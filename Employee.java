@@ -1,7 +1,3 @@
-// NAME: Ehtisham Naveed
-// Reg. No.: 597-FBAS/BSIT4/F20
-//**********************************
-
 package ACP.Employee;
 import javax.swing.*;
 import java.io.*;
