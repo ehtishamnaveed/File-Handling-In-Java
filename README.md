@@ -17,6 +17,4 @@
 
 ## To Run the program 
 - Firstly you need to compile the both packages.
-- After compiling the files type.
-### Command 
-- java ACP.Client.Client.
+- After compiling the files type `java ACP.Client.Client`.
