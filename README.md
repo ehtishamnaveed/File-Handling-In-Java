@@ -1,6 +1,5 @@
 # File Handling using Java
 - It is a File Handling Project created in Java. It contains two files `Employee.java` and `Client.java`, which are packages.
-- Employee Package is in `ACP.Employee` and Client Package is in `ACP.Client`.
 ## Employee.java
 - This file contains `class Employee`.
 - Which contains all the functionality from writing to file, to GUI using JOptionPane.
